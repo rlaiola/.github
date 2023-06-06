@@ -20,5 +20,5 @@ announcement, and may ask for additional information or guidance surrounding the
 ## Comments on this policy
 
 If you have suggestions on how this process could be improved please submit a
-[pull request](https://github.com/rlaiola/.github/) or
+[pull request](https://github.com/rlaiola/.github/pulls) or
 [file an issue](https://github.com/rlaiola/.github/issues/new) to discuss.
