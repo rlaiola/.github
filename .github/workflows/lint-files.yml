@@ -84,5 +84,5 @@ jobs:
         #uses: github/super-linter@v5
         uses: super-linter/super-linter/slim@v5
         env:
-          DEFAULT_BRANCH: master
+          DEFAULT_BRANCH: main
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
