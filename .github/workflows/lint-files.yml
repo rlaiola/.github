@@ -39,7 +39,7 @@ on:
           The branch, tag or SHA to checkout (empty for current branch)
         required: false
         type: string
-        
+
 jobs:
   lint:
     name: Lint code base
