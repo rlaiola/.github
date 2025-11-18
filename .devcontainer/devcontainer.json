@@ -76,7 +76,8 @@
         "davidanson.vscode-markdownlint",
         "fnando.linter",
         "streetsidesoftware.code-spell-checker",
-        "touchlab.touchlab-vscode-office"
+        "touchlab.touchlab-vscode-office",
+        "github.copilot-chat"
       ]
     }
   },
