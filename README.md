@@ -2,6 +2,8 @@
 
 Centralized Community Health / Policy Files and Development Templates
 
+---
+
 ## Table of Contents
 
 - [Overview](#overview)
@@ -13,6 +15,8 @@ Centralized Community Health / Policy Files and Development Templates
 - [Security](#security)
 - [License](#license)
 - [References](#references)
+
+---
 
 ## Overview
 
@@ -68,8 +72,6 @@ This repository is configured as a template. To create a new project based on it
 
 This includes all workflows, policies, configs, and devcontainer settings.
 
----
-
 ### Option 2: Copy Specific Files Into an Existing Repository
 
 If you want only a subset of these files:
@@ -77,8 +79,6 @@ If you want only a subset of these files:
 1. Copy the desired files into your project
 2. Commit them normally
 3. Adjust them to fit your needs
-
----
 
 ### Option 3: Reuse the Dev Container
 
@@ -88,8 +88,6 @@ cp -r .devcontainer /path/to/your/repository/
 
 # Open the repository in VS Code and select “Reopen in Container”
 ```
-
----
 
 ### Option 4: Use the CI/CD Workflows
 
